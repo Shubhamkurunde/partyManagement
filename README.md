@@ -1,0 +1,2 @@
+# partyManagement
+PartyManagementSysytem
